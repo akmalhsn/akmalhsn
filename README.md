@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Geospatial Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akmalhsn and https://rpubs.com/Akmalhasan](https://github.com/akmalhsn and https://rpubs.com/Akmalhasan)
+- 👨‍💻 All of my projects are available at [https://github.com/akmalhsn and https://rpubs.com/Akmalhasan]
 
 - 📫 How to reach me **akmalgoritma@gmail.com**
 
