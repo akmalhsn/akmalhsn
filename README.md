@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **akmalgoritma@gmail.com**
 
-- ⚡ Fun fact I am a former hydrographic surveyor/Offshore surveyor with almost 3 years of experience
+- ⚡ Fun fact I am a former Hydrographic surveyor/Offshore surveyor with almost 3 years of experience
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
