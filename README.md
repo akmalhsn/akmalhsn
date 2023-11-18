@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akmal Hasan</h1>
 
--  I am dedicated and passionate about data, especially spatial data with a knack for uncovering hidden patterns and valuable insights.
+-  I am dedicated and passionate about data, especially geospatial data with a knack for uncovering spatial hidden patterns and valuable insights.
 
 - 🌱 I’m currently learning **Geospatial Machine Learning**
 
