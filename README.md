@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akmalhsn](https://github.com/akmalhsn)
 
-- 📫 How to reach me **akmalgoritma@gmail.com**
+- 📫 How to reach me **m.akmalhassan@gmail.com**
 
 - ⚡ Fun fact I am a former Hydrographic surveyor/Offshore surveyor with almost 3 years of experience
 
