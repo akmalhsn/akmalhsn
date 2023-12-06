@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact I am a former Hydrographic surveyor/Offshore surveyor with almost 3 years of experience
 
+- 😊 If you find errors or things that don't fit conceptually in my repo, please let me know 😊
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akmal-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akmal-hasan/" height="30" width="40" /></a>
